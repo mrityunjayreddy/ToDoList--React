@@ -1,0 +1,26 @@
+.item-content{
+    display: flex;
+    width: 100%;
+}
+
+.title{
+    padding: 1rem;
+    font-size: 2rem;
+    width: 40%;
+    border: 2px solid black;
+    border-right: 0px;
+}
+
+.description{
+    padding: 1rem;
+    font-size: 1.5rem;
+    width: 60%;
+    border: 2px solid black;
+    border-bottom-right-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.heading-small{
+    font-weight: 700;
+    font-size: 1rem;
+}

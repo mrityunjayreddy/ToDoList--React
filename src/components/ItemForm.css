@@ -1,0 +1,50 @@
+.form-container{
+    padding : 5rem;
+    max-width: 60rem;
+    margin: 0 auto;
+}
+
+form{
+    font-size: 5rem;
+    background-color: beige;
+    padding: 4rem;
+    border-radius: 5rem;
+}
+
+.form-container_elm{
+   display: flex;
+   text-align: center;
+}
+
+input{
+  width: 40rem;
+  height: 4rem;
+}
+
+.form-controls{
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.control-button{
+    padding: 1rem 4rem;
+    background: aliceblue;
+    border: 0px ;
+    border-radius: 10rem;
+
+}
+
+select{
+    width: 20rem;
+    height: 4rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.date__elm input{
+width: 20rem;
+height: 4rem;
+margin-top: 2rem;
+margin-left: 5.8rem;
+}

@@ -1,0 +1,15 @@
+.button-container{
+    display: flex;
+    font-size: 2rem;
+    flex-direction: column;
+    font-weight: 700;
+    padding: 1rem;
+}
+
+.item-control-btn{
+    
+    padding: 2rem;
+    margin-top: 0.5rem;
+    height: 2rem;
+    border-radius: 2rem;
+}
